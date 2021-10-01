@@ -160,6 +160,9 @@ Company name | Location A, B, Remote
 
 -->
 
+Zcash Foundation | Remote 
+- [CI/CD & DevOps Engineer](https://cryptojobslist.com/jobs/ci-cd-devops-engineer-at-zcash-foundation-remote-anywhere-in-the-world) 
+
 PsyOptions Inc. | Remote
 - [Rust Solana Program Engineer](https://jobs.solana.com/companies/psyoptions/jobs/5215445-rust-engineer)
 
